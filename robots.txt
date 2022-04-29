@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /felideo.jpg
+Disallow: /you-shall-not-pass.jpg
+Disallow: /caminhadegato.jpg
+
+User-agent: Googlebot-Image
+Disallow: /felideo.jpg
+Disallow: /you-shall-not-pass.jpg
+Disallow: /caminhadegato.jpg
